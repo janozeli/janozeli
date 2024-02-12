@@ -1,5 +1,5 @@
 - 📍 Campinas, São Paulo - Brasil 🇧🇷
-- 💼 Working on Delphi/C# at Hetosoft Sistemas
+- 💼 Working with Delphi/C# at Hetosoft Sistemas
 - 📚 I’m currently learning C/C++ and Lua
 - 📫 How to reach me: lucasmjanozeli@proton.me
 
